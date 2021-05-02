@@ -1,7 +1,7 @@
 ## Hi there, I'm Arnob Das 👋
 
-[![Website](https://img.shields.io/website?label=arnob%20das&logo=ionic&style=for-the-badge&up_message=website&url=https%3A%2F%2Farnobdas.netlify.app%2F)](https://arnobdas.netlify.app)
-[![Twitter URL](https://img.shields.io/twitter/url?color=%2374ADD9&label=Follow%20%40arnobdas1522&logo=twitter&style=for-the-badge&url=https%3A%2F%2Ftwitter.com%2Farnobdas1522)](https://twitter.com/ArnobDas1522)
+[![Website](https://img.shields.io/website?label=arnob%20das&logo=ionic&style=for-the-badge&url=https%3A%2F%2Farnobdas.netlify.app%2F)](https://arnobdas.netlify.app)
+[https://img.shields.io/twitter/follow/https://twitter.com/intent/follow?original_referer=https%253A%252F%252Fpublish.twitter.com%252F&ref_src=twsrc%255Etfw&screen_name=arnobdas1522&tw_p=followbutton?style=for-the-badge](https://twitter.com/ArnobDas1522)
 
 ## I'm a Web Developer, Programmmer and Blogger!!
 
