@@ -43,6 +43,8 @@
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
+➡️ [more blog posts...](https://arnob-das.medium.com/)
+
 ---
 
 [![Arnob's GitHub stats](https://github-readme-stats.vercel.app/api?username=arnob-das)](https://github.com/arnob-das/github-readme-stats)
