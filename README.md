@@ -47,8 +47,8 @@
 
 [![Arnob's GitHub stats](https://github-readme-stats.vercel.app/api?username=arnob-das)](https://github.com/arnob-das/github-readme-stats)
 
----
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arnob-dasa&layout=compact)](https://github.com/arnob-das/github-readme-stats)
+<!-- ---
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arnob-dasa&layout=compact)](https://github.com/arnob-das/github-readme-stats) -->
 
 
 [website]: https://arnobdas.netlify.app
