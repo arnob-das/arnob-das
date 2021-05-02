@@ -48,5 +48,5 @@
 [website]: https://arnobdas.netlify.app
 [twitter]: https://twitter.com/ArnobDas1522
 [linkedin]: https://www.linkedin.com/in/arnob-das/
-[medium]: https://www.arnob-das.medium.com/
+[medium]: https://arnob-das.medium.com/
 [facebook]: https://www.facebook.com/arnobdasbd
