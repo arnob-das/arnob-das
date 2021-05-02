@@ -1,6 +1,6 @@
-### Hi there, I'm Arnob Das [website] 👋
+### Hi there, I'm Arnob Das 👋
 
-[![arnob-das](https://img.shields.io/website?style=for-the-badge&url=https%3A%2F%2Farnobdas.netlify.app)](https://arnobdas.netlify.app)
+[![Website](https://img.shields.io/website?style=for-the-badge&url=https%3A%2F%2Farnobdas.netlify.app)](https://arnobdas.netlify.app)
 
 ## I'm a Web Developer, Programmmer and Blogger!!
 
@@ -38,6 +38,10 @@
 <br />
 
 ---
+
+### 📕 Latest Blog Posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 [website]: https://arnobdas.netlify.app
 [twitter]: https://twitter.com/ArnobDas1522
