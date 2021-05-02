@@ -43,8 +43,9 @@
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
-[![Arnob's GitHub stats](https://github-readme-stats.vercel.app/api?username=arnob-das)](https://github.com/arnob-das/github-readme-stats)
+---
 
+[![Arnob's GitHub stats](https://github-readme-stats.vercel.app/api?username=arnob-das)](https://github.com/arnob-das/github-readme-stats)
 
 [website]: https://arnobdas.netlify.app
 [twitter]: https://twitter.com/ArnobDas1522
