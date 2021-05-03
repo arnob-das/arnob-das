@@ -19,7 +19,7 @@
 [<img align="left" alt="arnobdas1522 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="arnob-das | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="arnob-das | Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />][medium]
-
+[<img align="left" alt="arnob-das | Medium" width="22px" src="https://image.flaticon.com/icons/png/128/2111/2111505.png" />][medium]
 <br />
 
 ### Languages and Tools:
