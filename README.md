@@ -14,12 +14,11 @@
 
 ### Connect with me:
 
-[<img align="left" alt="arnobdas.netlify.app" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="arnobdasbd | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
+[<img align="left" alt="arnobdas.netlify.app" width="22px" src="https://www.flaticon.com/svg/vstatic/svg/841/841364.svg?token=exp=1620119484~hmac=39b322695b7aaf2b175790960df66aa3" />][website]
+[<img align="left" alt="arnobdasbd | Facebook" width="22px" src="https://image.flaticon.com/icons/png/512/124/124010.png" />][facebook]
 [<img align="left" alt="arnobdas1522 | Twitter" width="22px" src="https://image.flaticon.com/icons/png/512/124/124021.png" />][twitter]
-[<img align="left" alt="arnob-das | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="arnob-das | Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />][medium]
-[<img align="left" alt="arnob-das | Medium" width="22px" src="https://image.flaticon.com/icons/png/128/2111/2111505.png" />][medium]
+[<img align="left" alt="arnob-das | LinkedIn" width="22px" src="https://www.flaticon.com/svg/vstatic/svg/145/145807.svg?token=exp=1620119520~hmac=4ce4c75a322b0fb3da52d84aec3c6c5b" />][linkedin]
+[<img align="left" alt="arnob-das | Medium" width="22px" src="https://www.flaticon.com/svg/vstatic/svg/2111/2111379.svg?token=exp=1620119547~hmac=ddaf08573659f93c2c174245052c2a48" />][medium]
 <br />
 
 ### Languages and Tools:
