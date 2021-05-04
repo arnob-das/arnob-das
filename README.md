@@ -5,9 +5,9 @@
 
 ## I'm a Web Developer, Programmmer and Blogger!!
 
-- 🌱 I’m currently learning everything 🤣
+- 🌱 I’m currently learning nodejs
 - 👯 I’m looking to collaborate with other developers
-- 🥅 2021 Goals: Contribute more to Open Source projects
+- 🥅 2021 Goals: Contribute to Open Source projects
 - ⚡ Fun fact: I love to travel and ride by bike 
 
 
