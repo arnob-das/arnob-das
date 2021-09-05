@@ -1,7 +1,14 @@
 ## Hi there, I'm Arnob Das 👋
 
-[![Website](https://img.shields.io/website?label=arnob%20das&logo=ionic&style=for-the-badge&url=https%3A%2F%2Farnobdas.netlify.app%2F)](https://arnobdas.netlify.app)
-[![Twitter Follow](https://img.shields.io/twitter/follow/arnobdas1522?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fpublish.twitter.com%2F&ref_src=twsrc%5Etfw&screen_name=arnobdas1522&tw_p=followbutton)
+<!-- [![Website](https://img.shields.io/website?label=arnob%20das&logo=ionic&style=for-the-badge&url=https%3A%2F%2Farnobdas.netlify.app%2F)](https://arnobdas.netlify.app)
+[![Twitter Follow](https://img.shields.io/twitter/follow/arnobdas1522?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fpublish.twitter.com%2F&ref_src=twsrc%5Etfw&screen_name=arnobdas1522&tw_p=followbutton) -->
+
+[<img align="left" alt="arnobdas.netlify.app" width="22px" src="https://cdn-icons-png.flaticon.com/512/3003/3003511.png" />][website]
+[<img align="left" alt="arnobdasbd | Facebook" width="22px" src="https://cdn-icons-png.flaticon.com/512/733/733547.png" />][facebook]
+[<img align="left" alt="arnobdas1522 | Twitter" width="22px" src="https://cdn-icons-png.flaticon.com/512/733/733579.png" />][twitter]
+[<img align="left" alt="arnob-das | LinkedIn" width="22px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />][linkedin]
+[<img align="left" alt="arnob-das | Medium" width="22px" src="https://cdn-icons-png.flaticon.com/512/2111/2111543.png" />][medium]
+<br />
 
 ## I'm a Web Developer, Programmmer and Blogger!!
 
@@ -12,16 +19,16 @@
 
 
 
-### Connect with me:
+<!-- ### Connect with me: -->
 
-[<img align="left" alt="arnobdas.netlify.app" width="22px" src="https://cdn-icons-png.flaticon.com/512/1084/1084320.png" />][website]
+<!-- [<img align="left" alt="arnobdas.netlify.app" width="22px" src="https://cdn-icons-png.flaticon.com/512/3003/3003511.png" />][website]
 [<img align="left" alt="arnobdasbd | Facebook" width="22px" src="https://cdn-icons-png.flaticon.com/512/733/733547.png" />][facebook]
 [<img align="left" alt="arnobdas1522 | Twitter" width="22px" src="https://cdn-icons-png.flaticon.com/512/733/733579.png" />][twitter]
 [<img align="left" alt="arnob-das | LinkedIn" width="22px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />][linkedin]
 [<img align="left" alt="arnob-das | Medium" width="22px" src="https://cdn-icons-png.flaticon.com/512/2111/2111543.png" />][medium]
-<br />
+<br /> -->
 
-### Languages and Tools:
+### Languages and Tools I Use:
 
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][website]
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][website]
@@ -34,7 +41,6 @@
 [<img align="left" alt="GitHub" width="26px" src="https://cdn-icons-png.flaticon.com/512/38/38401.png" />][website]
 [<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][website]
 
-<br />
 <br />
 
 ---
