@@ -14,11 +14,11 @@
 
 ### Connect with me:
 
-[<img align="left" alt="arnobdas.netlify.app" width="22px" src="https://cdn-icons-png.flaticon.com/512/1/1198.png" />][website]
-[<img align="left" alt="arnobdasbd | Facebook" width="22px" src="https://www.flaticon.com/svg/vstatic/svg/2111/2111398.svg?token=exp=1620119736~hmac=2274f557034ed6526a0fbc84d15a1daa" />][facebook]
-[<img align="left" alt="arnobdas1522 | Twitter" width="22px" src="https://image.flaticon.com/icons/png/512/124/124021.png" />][twitter]
-[<img align="left" alt="arnob-das | LinkedIn" width="22px" src="https://www.flaticon.com/svg/vstatic/svg/2111/2111499.svg?token=exp=1620119798~hmac=199f791f09809139cecd3dde4c19d779" />][linkedin]
-[<img align="left" alt="arnob-das | Medium" width="22px" src="https://www.flaticon.com/svg/vstatic/svg/2111/2111379.svg?token=exp=1620119547~hmac=ddaf08573659f93c2c174245052c2a48" />][medium]
+[<img align="left" alt="arnobdas.netlify.app" width="22px" src="https://cdn-icons-png.flaticon.com/512/1084/1084320.png" />][website]
+[<img align="left" alt="arnobdasbd | Facebook" width="22px" src="https://cdn-icons-png.flaticon.com/512/733/733547.png" />][facebook]
+[<img align="left" alt="arnobdas1522 | Twitter" width="22px" src="https://cdn-icons-png.flaticon.com/512/733/733579.png" />][twitter]
+[<img align="left" alt="arnob-das | LinkedIn" width="22px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />][linkedin]
+[<img align="left" alt="arnob-das | Medium" width="22px" src="https://cdn-icons-png.flaticon.com/512/2111/2111543.png" />][medium]
 <br />
 
 ### Languages and Tools:
