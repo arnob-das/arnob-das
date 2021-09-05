@@ -3,7 +3,7 @@
 <!-- [![Website](https://img.shields.io/website?label=arnob%20das&logo=ionic&style=for-the-badge&url=https%3A%2F%2Farnobdas.netlify.app%2F)](https://arnobdas.netlify.app)
 [![Twitter Follow](https://img.shields.io/twitter/follow/arnobdas1522?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fpublish.twitter.com%2F&ref_src=twsrc%5Etfw&screen_name=arnobdas1522&tw_p=followbutton) -->
 
-[<img align="left" alt="arnobdas.netlify.app" width="22px" src="https://cdn-icons-png.flaticon.com/512/3003/3003511.png" />][website]
+[<img align="left" alt="arnobdas.netlify.app" width="22px" src="https://cdn-icons-png.flaticon.com/512/876/876610.png" />][website]
 [<img align="left" alt="arnobdasbd | Facebook" width="22px" src="https://cdn-icons-png.flaticon.com/512/733/733547.png" />][facebook]
 [<img align="left" alt="arnobdas1522 | Twitter" width="22px" src="https://cdn-icons-png.flaticon.com/512/733/733579.png" />][twitter]
 [<img align="left" alt="arnob-das | LinkedIn" width="22px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />][linkedin]
