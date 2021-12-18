@@ -12,7 +12,7 @@
 
 ## I'm a Web Developer, Programmmer and Blogger!!
 
-- 🌱 I’m currently learning nodejs
+- 🌱 I’m currently learning nodejs and nextjs
 - 👯 I’m looking to collaborate with other developers
 - 🥅 2021 Goals: Contribute to Open Source projects
 - ⚡ Fun fact: I love to travel and ride by bike 
