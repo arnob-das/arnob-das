@@ -14,7 +14,7 @@
 
 - 🌱 I’m currently learning nodejs and nextjs
 - 👯 I’m looking to collaborate with other developers
-- 🥅 2021 Goals: Contribute to Open Source projects
+- 🥅 2022 Goals: Contribute to Open Source projects
 - ⚡ Fun fact: I love to travel and ride by bike 
 
 
